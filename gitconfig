@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = vilorshiniramsamy02@gmail.com
+	name = vilorshini ramsamy
